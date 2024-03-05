@@ -5,7 +5,7 @@
 - **Train Set Size:** 3795 images belonging to 4 classes.
 - **Validation Set Size:** 211 images belonging to 4 classes.
 - **Test Set Size:** 211 images belonging to 4 classes.
-- 
+
 ## Metric Descriptions
 
 - **Accuracy**: The proportion of true results among the total number of cases examined. It measures how often the model is correct across all classes.
